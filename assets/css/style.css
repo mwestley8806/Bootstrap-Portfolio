@@ -1,0 +1,23 @@
+.container{
+    margin-left: 10px;
+}
+
+.header{
+    font-family: 'Cinzel', serif;
+}
+
+.imgwrapper{
+    width: 300px;
+    height: auto;
+}
+
+.imgwrapper2{
+    width: 60px;
+    height: auto;
+}
+
+.work{
+    margin-top: 15px;
+    align-content: right;
+}
+
